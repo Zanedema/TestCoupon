@@ -1,7 +1,7 @@
 (footprint "SaturnCPWG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62D8A5D1)
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+  (tedit 62DA1B7A)
+  (fp_text reference "REF**" (at 0.011 -3.965 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9db16341-dac0-4aab-9c62-7d88c111c1ce)
   )
@@ -9,7 +9,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b7d06af4-a5b1-447f-9b1a-8b44eb1cc204)
   )
-  (fp_rect (start -15.71 -4.2425) (end 15.65 -0.2425) (layer "F.Fab") (width 0.001) (fill none) (tstamp 550c470f-4041-4141-9f57-3776040d1ce8))
-  (fp_rect (start -15.71 0.2415) (end 15.65 4.2415) (layer "F.Fab") (width 0.001) (fill none) (tstamp c924d60e-2485-45f5-9e86-952da9c46765))
   (pad "1" smd oval (at -0.03 0) (size 31.36 0.29718) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 44215043-e16b-4aaa-aae3-9f3418e3232c))
+  (pad "2" smd rect (at -0.03 -0.74651) (size 29.972 1.01498) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 64ef6b7d-823c-46bd-a619-4a6abfde341f))
+  (pad "2" smd rect (at -0.03 0.7475) (size 29.972 1.015) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c11e8176-68f3-47db-9f4a-5757e9687734))
 )
